@@ -1,4 +1,9 @@
 # MachineLearningCoursework
-Machine Learning programs implementing Naive Bayes classifier, linear regression, logistic regression.
+Machine Learning Programs for CSE 6363
 
-Most of the programs implemented in Matlab or Java.
+Topics covered:
+Naive Bayes classification
+Linear Regression and classification
+Logistic regression
+Neural Networks
+Decision Trees
