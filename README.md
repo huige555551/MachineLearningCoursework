@@ -7,3 +7,4 @@ Linear Regression and classification
 Logistic regression
 Neural Networks
 Decision Trees
+Pricipal Component Analysis
